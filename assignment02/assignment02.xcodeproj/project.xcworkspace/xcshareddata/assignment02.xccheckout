@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EF807F91-4F07-4837-83CA-F1EA4A01F85F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>assignment02</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D3FD4CE544F86C5238C1B4F89E06F12E19C603E5</key>
+		<string>https://github.com/justinbars/cs4962.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>assignment02/assignment02.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D3FD4CE544F86C5238C1B4F89E06F12E19C603E5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/justinbars/cs4962.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3FD4CE544F86C5238C1B4F89E06F12E19C603E5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3FD4CE544F86C5238C1B4F89E06F12E19C603E5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cs4962</string>
+		</dict>
+	</array>
+</dict>
+</plist>
